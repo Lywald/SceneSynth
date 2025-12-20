@@ -1,0 +1,49 @@
+# Claude
+.claude/
+
+# Project notes
+dna.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project files (user-specific)
+*.scenesynth
+
+# Logs
+*.log
+
+# Environment variables (if any)
+.env
+.env.local
+
+# PyQt generated
+*.qmlc
+*.jsc
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
