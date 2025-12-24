@@ -25,6 +25,14 @@ SceneSynth is a desktop application that generates **semantic scene graphs** fro
 
 ---
 
+## NEWS: Working on SceneSynth WEB, for no-coders to use this as a website, easy to use -- URL Will be Here SOON (star the project and stay in touch for January 2026)
+<p>
+    <img src="./doc/sweb.png" alt="SceneSynth Web" width="800">
+</p>
+
+---
+
+
 ## Key Features
 
 - **Natural Language to Scene Graph** — Describe your world in plain text; AI generates a structured graph
